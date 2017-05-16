@@ -1,0 +1,17 @@
+{
+  "name": "node-simple-es8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test",
+    "test-debug": "mocha --debug-brk"
+  },
+  "author": "Maciej Posłuszny",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "latest",
+    "eslint": "^3.19.0",
+    "mocha": "latest"
+  }
+}
